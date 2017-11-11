@@ -1,0 +1,12 @@
+{
+  "name": "cs-546-lab-2",
+  "version": "0.0.1",
+  "description": "Home work lab 2",
+  "main": "printShape.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hanrun Li",
+  "license": "MIT"
+}
